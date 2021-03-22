@@ -1,1 +1,3 @@
-first react
+assignment two
+
+dynamic text component
