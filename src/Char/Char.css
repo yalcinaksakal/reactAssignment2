@@ -1,0 +1,12 @@
+.Char p {
+  margin: 0;
+  display: inline-block;
+  text-align: center;
+  padding-right: 5px;
+  user-select: none;
+}
+
+.Char p:hover{
+background:rgb(112, 207, 238);
+border-radius: 5px;
+}

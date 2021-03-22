@@ -1,0 +1,21 @@
+.Validation {
+  width: 80%;
+  height: 30px;
+  outline: none;
+  border: none;
+  border-radius: 10px;
+  font-size: 20px;
+  background: rgb(83, 202, 101);
+  display: flex;
+  align-items: center;
+  color: white;
+  margin: 10px 0;
+}
+
+.Validation p {
+  padding-left: 10px;
+}
+
+.Red {
+  background: red;
+}
